@@ -1,4 +1,4 @@
-# **SQL Lineage and Metadata Extraction**
+# **SQL Lineage Explorer**
 
 ## **Project Overview**
 
@@ -24,8 +24,8 @@ This project automates the extraction of metadata from SQL queries, generates da
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/KritikaJoshi22/ZingleAI-Task.git
-   cd ZingleAI Task
+   git clone https://github.com/KritikaJoshi22/SQL-Lineage-Explorer.git
+   cd SQL Lineage Explorer
    ```
 
 2. **Backend Setup**:
