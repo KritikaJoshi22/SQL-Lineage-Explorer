@@ -10,6 +10,9 @@ This project automates the extraction of metadata from SQL queries, generates da
 
 ---
 
+## Video Walkthrough
+Demo Video and Code Walkthrough: [Watch the video](https://www.loom.com/share/910a005ab46745ada6699fe2ede1a76a?sid=dc066278-f60d-49f7-808f-2b44b1b69f32)
+
 ## **Setup Instructions**
 
 ### **Prerequisites**
